@@ -1,0 +1,37 @@
+﻿{
+  "navbar": {
+    "search": "Szukaj dania...",
+    "dish": "Danie",
+    "crew": "Załoga"
+  },
+  "home": {
+    "title": "Nasze Menu",
+    "error": "Nie udało się połączyć z serwerem. Sprawdź czy backend działa!",
+    "loading": "Pobieram dania z kuchni...",
+    "noIngredients": "Składniki wkrótce...",
+    "addToCart": "DODAJ +"
+  },
+  "cart": {
+    "title": "Twój Koszyk",
+    "empty": "Koszyk jest jeszcze pusty...",
+    "total": "Razem:",
+    "checkout": "ZAMÓW I ZAPŁAĆ"
+  },
+  "modal": {
+    "title": "Dodaj nowe danie",
+    "name": "Nazwa dania",
+    "description": "Opis (opcjonalnie)",
+    "price": "Cena (zł)",
+    "visible": "Danie widoczne w menu",
+    "ingredientsTitle": "Wybierz składniki dania",
+    "addMissing": "Dodaj brakujący",
+    "loadingIngredients": "Pobieranie bazy składników...",
+    "emptyIngredients": "Baza składników jest pusta. Dodaj swój pierwszy składnik!",
+    "cancel": "Anuluj",
+    "save": "Zapisz danie",
+    "newIngredient": "Nowy składnik",
+    "ingredientName": "Nazwa składnika",
+    "isAllergen": "To jest alergen",
+    "add": "Dodaj"
+  }
+}

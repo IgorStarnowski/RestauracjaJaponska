@@ -1,0 +1,37 @@
+﻿{
+  "navbar": {
+    "search": "料理を探す...",
+    "dish": "料理",
+    "crew": "クルー"
+  },
+  "home": {
+    "title": "メニュー",
+    "error": "サーバーに接続できませんでした。バックエンドが動作しているか確認してください！",
+    "loading": "厨房から料理を取得中...",
+    "noIngredients": "原材料は近日公開...",
+    "addToCart": "追加 +"
+  },
+  "cart": {
+    "title": "ショッピングカート",
+    "empty": "カートはまだ空です...",
+    "total": "合計:",
+    "checkout": "注文して支払う"
+  },
+  "modal": {
+    "title": "新しい料理を追加",
+    "name": "料理名",
+    "description": "説明（オプション）",
+    "price": "価格 (zł)",
+    "visible": "メニューに表示する",
+    "ingredientsTitle": "材料を選択",
+    "addMissing": "不足分を追加",
+    "loadingIngredients": "材料データベースを読み込み中...",
+    "emptyIngredients": "材料データベースが空です。最初の材料を追加してください！",
+    "cancel": "キャンセル",
+    "save": "料理を保存",
+    "newIngredient": "新しい材料",
+    "ingredientName": "材料名",
+    "isAllergen": "アレルゲンです",
+    "add": "追加"
+  }
+}

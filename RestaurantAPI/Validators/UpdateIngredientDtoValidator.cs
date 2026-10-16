@@ -1,0 +1,14 @@
+﻿using FluentValidation;
+using RestaurantAPI.Dtos.Ingredient;
+
+namespace RestaurantAPI.Validators;
+
+public class UpdateIngredientDtoValidator : AbstractValidator<UpdateIngredientDto>
+{
+    public UpdateIngredientDtoValidator()
+    {
+        RuleFor(i => i.Name)
+            .NotEmpty().WithMessage("Nazwa składnika jest wymagana.")
+            .MaximumLength(50).WithMessage("Nazwa jest zbyt długa.");
+    }
+}
